@@ -24,6 +24,12 @@ const emojipedia = [
         emoji: "😊",
         name: "Smiling Face with Smiling Eyes",
         meaning: "A yellow face with smiling eyes and a broad, closed smile turning up to rosy cheeks. Often expresses genuine happiness and warm, positive feelings.",
+    },
+    {
+        id: 5,
+        emoji: "💥",
+        name: "Collision",
+        meaning: "A cartoon-styled representation of a collision. Depicted as a star-like, orange-and-yellow fiery burst, generally with one point extending to the bottom right, as if from the source of the collision."
     }
 ]
 
